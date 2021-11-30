@@ -12,6 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+download/
 eggs/
 .eggs/
 lib/
@@ -113,6 +114,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+.idea/
+
 
 # mypy
 .mypy_cache/
